@@ -37,11 +37,17 @@ The following technical analysis are done:
 
 > * Number of neurons, layers, and activation functions selected for neural network model
 
+This model is made with input features & FOUR hidden layers. The layers have respectively 12, 6, 80 and 40 neurons each. 
 
+![1](https://user-images.githubusercontent.com/73450637/110085560-40f38b80-7d5f-11eb-8de1-2fe99e08f0ae.png)
 
+Each layer has an activation function. All the four hidden layers have an activation function "relu" & the output layer is "sigmoid".
 
+![2](https://user-images.githubusercontent.com/73450637/110085565-4224b880-7d5f-11eb-87b4-e77471191e93.png)
 
 > * Reagrding the target to be achieved
+
+The target of the model was to achieve 75% and above and I was able to acheieve 73.25%.
 > * Steps taken to try and increase model performance
 
 ## Summary
