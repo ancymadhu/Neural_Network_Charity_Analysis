@@ -26,7 +26,12 @@ The following technical analysis are done:
     The variable that was considered is the IS_SUCCESSFUL column.
 
 > * Variables that are considered the features for the model
+
+    The columns other than the dropped ones became the features for the model.
+ 
 > * Variables that are neither targets nor features, and should be removed from the input data
+
+    Removed the "EIN" and "NAME" columns as they did not offer any relevant data that could help the model perform better.
 
 ### II. Compiling, Training, and Evaluating the Model
 
