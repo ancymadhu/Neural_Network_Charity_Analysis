@@ -48,8 +48,15 @@ Each layer has an activation function. All the four hidden layers have an activa
 > * Reagrding the target to be achieved
 
 The target of the model was to achieve 75% and above and I was able to acheieve 73.25%.
+
+![3](https://user-images.githubusercontent.com/73450637/110086036-e0b11980-7d5f-11eb-8ad3-1df4f152b777.png)
+
 > * Steps taken to try and increase model performance
 
+Some of the steps I took to try and make the model more accurate were adding hidden layers, changing the activation type, changing the number of epochs and changing the number of neurons in each layer.
+
 ## Summary
+
+The accuracy of the prediction achieved was ~74% after dropping two features from the dataset. Recommendation for achieveing better perfromance would be to drop more unncessary features from the dataset. Even after trying with various number of neurons and hidden levels, no much difference in accuracy was showing up. The best way to increase the accuracy of the model is to have more accurate data. If we have solid data added to this model, the accuracy of this model will be much more concrete.
 
 
