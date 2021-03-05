@@ -8,6 +8,6 @@ From Alphabet Soup’s business team, Beks received a CSV containing more than 3
 
 The following technical analysis are done:
 
-Preprocessing Data for a Neural Network Model
-Compile, Train, and Evaluate the Model
-Optimize the Model
+> 1. Preprocessing Data for a Neural Network Model
+> 2. Compile, Train, and Evaluate the Model
+> 3. Optimize the Model
