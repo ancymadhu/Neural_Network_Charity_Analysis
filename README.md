@@ -23,7 +23,7 @@ The following technical analysis are done:
 
 > * Variables that are considered the target for the model
 
-The variable that was considered is the IS_SUCCESSFUL column.
+    The variable that was considered is the IS_SUCCESSFUL column.
 
 > * Variables that are considered the features for the model
 > * Variables that are neither targets nor features, and should be removed from the input data
