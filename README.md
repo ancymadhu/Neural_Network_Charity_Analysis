@@ -11,3 +11,29 @@ The following technical analysis are done:
 > 1. Preprocessing Data for a Neural Network Model
 > 2. Compile, Train, and Evaluate the Model
 > 3. Optimize the Model
+
+## Resources
+
+* Data Source: Alphabet Soup Charity dataset (charity_data.csv)
+* Software: Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3
+
+## Results
+
+### I. Data Preprocessing
+
+> * Variables that are considered the target for the model
+
+The variable that was considered is the IS_SUCCESSFUL column.
+
+> * Variables that are considered the features for the model
+> * Variables that are neither targets nor features, and should be removed from the input data
+
+### II. Compiling, Training, and Evaluating the Model
+
+> * Number of neurons, layers, and activation functions selected for neural network model
+> * Reagrding the target to be achieved
+> * Steps taken to try and increase model performance
+
+## Summary
+
+
