@@ -36,6 +36,11 @@ The following technical analysis are done:
 ### II. Compiling, Training, and Evaluating the Model
 
 > * Number of neurons, layers, and activation functions selected for neural network model
+
+
+
+
+
 > * Reagrding the target to be achieved
 > * Steps taken to try and increase model performance
 
